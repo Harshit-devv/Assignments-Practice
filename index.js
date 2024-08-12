@@ -160,20 +160,20 @@
 
 
 // function checkNumber(num) {
-//     // Use ternary operator to check if the number is negative or positive
+//     // Use ternary operator to check if the number is negative or positive??
 //     const result = num > 0 ? 'Positive' : (num < 0 ? 'Negative' : 'Neutral');
 //     return result;
 // }
 
 // // Example usage:
 // const number = -5;
-// console.log(`The number ${number} is ${checkNumber(number)}.`); // Output: The number -5 is Negative.
+// console.log(`The number ${number} is ${checkNumber(number)}.`); // 
 
 // const anotherNumber = 10;
-// console.log(`The number ${anotherNumber} is ${checkNumber(anotherNumber)}.`); // Output: The number 10 is Positive.
+// console.log(`The number ${anotherNumber} is ${checkNumber(anotherNumber)}.`); // 
 
 // const zero = 0;
-// console.log(`The number ${zero} is ${checkNumber(zero)}.`); // Output: The number 0 is Zero.
+// console.log(`The number ${zero} is ${checkNumber(zero)}.`); // 
 
 
 
@@ -234,7 +234,7 @@
 // const num3 = 25;
 
 // const largest = findLargest(num1, num2, num3);
-// console.log(`The largest number among ${num1}, ${num2}, and ${num3} is : ${largest}.`); // Output: The largest number among 10, 20, and 15 is 20.
+// console.log(`The largest number among ${num1}, ${num2}, and ${num3} is : ${largest}.`);
 
 
 
